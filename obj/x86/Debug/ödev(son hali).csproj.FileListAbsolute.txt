@@ -1,0 +1,18 @@
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ödev(son hali)\bin\Debug\ödev(son hali).exe
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ödev(son hali)\bin\Debug\ödev(son hali).pdb
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ödev(son hali)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ödev(son hali)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ödev(son hali)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ödev(son hali)\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ödev(son hali)\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ödev(son hali)\obj\x86\Debug\ödev(son hali).exe
+C:\Users\Onur\Documents\Visual Studio 2010\Projects\ödev(son hali)\obj\x86\Debug\ödev(son hali).pdb
+G:\ödev(son hali)\obj\x86\Debug\ödev(son hali).exe
+G:\ödev(son hali)\obj\x86\Debug\ödev(son hali).pdb
+G:\ödev(son hali)\bin\Debug\ödev(son hali).exe
+G:\ödev(son hali)\bin\Debug\ödev(son hali).pdb
+G:\ödev(son hali)\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ödev(son hali)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\ödev(son hali)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\ödev(son hali)\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ödev(son hali)\obj\x86\Debug\GenerateResource.write.1.tlog
